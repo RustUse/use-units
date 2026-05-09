@@ -1,0 +1,17 @@
+[package]
+name = "use-units"
+description = "Cross-domain unit primitives for RustUse."
+authors.workspace = true
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+homepage.workspace = true
+rust-version.workspace = true
+readme = "README.md"
+documentation = "https://docs.rs/use-units"
+keywords = ["units", "conversion", "measurement", "rustuse"]
+categories = ["science", "mathematics"]
+
+[lints]
+workspace = true
