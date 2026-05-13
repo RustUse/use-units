@@ -37,4 +37,4 @@ assert_eq!(kilometer.convert_value(2.0, meter), Some(2_000.0));
 
 - Shared unit metadata and compatibility checks.
 - Lightweight linear conversion helpers.
-- A stable base for future chemistry, physics, wave, time, finance, and measurement crates.# use-units
+- A stable base for future chemistry, physics, wave, time, finance, and measurement crates.
